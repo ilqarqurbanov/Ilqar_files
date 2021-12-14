@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: moi proekti, Конфигурация: Debug Any CPU ------
+1>moi proekti -> D:\Ilgar_files\moi proekti\moi proekti\bin\Debug\net5.0\moi proekti.dll
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
